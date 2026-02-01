@@ -1,6 +1,22 @@
 
 # 📊 Power BI Sales Dashboard
 
+# Dashboard Images -
+**1)**
+
+ <img width="925" height="510" alt="image" src="https://github.com/user-attachments/assets/9d500a42-58e0-4db9-b4f4-ac124ca3f4fe" />
+ 
+ **2)**
+ 
+ <img width="925" height="510" alt="image" src="https://github.com/user-attachments/assets/fd0b10ef-a512-4dca-a189-41c2723cbb42" />
+
+ **3)**
+
+ <img width="925" height="510" alt="image" src="https://github.com/user-attachments/assets/3fce5274-9008-4764-b440-1b8e082c6680" />
+
+
+
+
 ## 📌 Project Objective
 - Analyze overall **sales performance** across multiple business dimensions.
 - Track **revenue, profit, and quantity sold** over time.
